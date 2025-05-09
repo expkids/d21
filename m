@@ -10,8 +10,8 @@
 
 # 直播 1-ijk 2 exo 3-ali 4-sys
 "lives":[
-{"name":"173線路","url":"https://github.com/ninemui/newrechaBOX/raw/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+//{"name":"173線路","url":"https://github.com/ninemui/newrechaBOX/raw/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+//{"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"AKTV2","type":0,"url":"http://aktv.space/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"♪港澳台","url":"https://github.com/kimwang1978/collect-tv-txt/raw/main/专区/♪港澳台.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"collect-tv-txt","url":"https://live.iptv365.org/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
@@ -24,11 +24,11 @@
 # T4 Tokens: 51c2b961, de3676b2
 
  "sites":[
-{"key":"csp_9muiBOX","name":"👒9muiBOX","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"https://github.com/ninemui/HeiHeiBOX/raw/main/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
-{"key":"ub18_51c2b961","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"duboku_51c2b961","name":"🐄┃獨播庫┃🥇","type":4,"api":"https://tang.hz.cz/power/duboku?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"hme_51c2b961","name":"🐄┃黑木耳┃😈","type":4,"api":"https://tang.hz.cz/power/hme?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+//{"key":"csp_9muiBOX","name":"👒9muiBOX","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"https://github.com/ninemui/HeiHeiBOX/raw/main/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
+//{"key":"ub18_51c2b961","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+//{"key":"duboku_51c2b961","name":"🐄┃獨播庫┃🥇","type":4,"api":"https://tang.hz.cz/power/duboku?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+//{"key":"hme_51c2b961","name":"🐄┃黑木耳┃😈","type":4,"api":"https://tang.hz.cz/power/hme?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"pc0205_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 {"key":"drpy_9mui-網飛TV","name":"🍭網飛TV🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-網飛.TV.js"},
 {"key":"XBPQ_看片狂人","name":"😚看片狂人","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-{by}------{catePg}---{year}--.html","分类":"连续剧$2#国产剧$13#韩剧$23#欧美剧$16#短剧$37#电影$1#综艺$3#动漫$4"}},
