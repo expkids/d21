@@ -1,18 +1,21 @@
 {
 ## spider
-"spider":"./jar/pg.jar;md5;2a1b01e865875c414199482ddf204afe",
+//"spider":"./jar/pg.jar;md5;2a1b01e865875c414199482ddf204afe",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746289852339/f0504.txt;md5;42ef09340295f4070cedad37bf759ef3",
+"wallpaper":"https://深色壁纸.xxooo.cf/","logo":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/yellow.gif",
+
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
-"wallpaper":"./lib/00.jpg",
+//"wallpaper":"./lib/00.jpg",
 
 
 # 直播 1-ijk 2 exo 3-ali 4-sys
 "lives":[
 //{"name":"173線路","url":"https://github.com/ninemui/newrechaBOX/raw/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"AKTV2","type":0,"url":"http://aktv.space/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+//{"name":"AKTV2","type":0,"url":"http://aktv.space/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"♪港澳台","url":"https://github.com/kimwang1978/collect-tv-txt/raw/main/专区/♪港澳台.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"collect-tv-txt","url":"https://live.iptv365.org/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 //{"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
@@ -24,6 +27,9 @@
 # T4 Tokens: 51c2b961, de3676b2
 
  "sites":[
+{"key":"玩偶","name":"🤹‍♂️┃饭硬┃玩偶哥哥","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"Wogg","name":"🎩┃PG┃玩偶哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG","jar":"./pg.jar;md5;fd53509ee96e1519441cfa9f182fe66a"},
+{"key":"豆","name":"🎁┃豆瓣┃影视","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"csp_9muiBOX","name":"👒9muiBOX","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"https://github.com/ninemui/HeiHeiBOX/raw/main/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 //{"key":"ub18_51c2b961","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
