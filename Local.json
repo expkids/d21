@@ -1,8 +1,6 @@
 {"urls":[
-{"url":"clan://localhost/tvbox/ninemui/ninemui.json","name":"ninemui"},
-{"url":"clan://localhost/tvbox/ninemui/ninemuiPY.json","name":"ninemuiPY"},
-{"url":"clan://localhost/tvbox/ninemui/9muiBOX.json","name":"9muiBOX"},	
-{"url":"clan://localhost/tvbox/ninemui/9muiBOX_cn.json","name":"9muiBOX_cn"},	
+{"url":"file://Pictures/ninemui.json","name":"ninemui"},
+{"url":"file://Pictures/9muiBOX.json","name":"9muiBOX"},
 {"url":"https://github.com/ninemui/9muiBOX/raw/main/ninemui.json","name":"ninemui@GitHub"},
 {"url":"https://github.com/ninemui/9muiBOX/raw/main/9muiBOX.json","name":"9muiBOX@GitHub"}
 ]}
