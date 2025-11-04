@@ -24,8 +24,6 @@
 # T4 Tokens: olelive_48da13fc, olelive_de3676b2
 
  "sites":[
-{"key":"csp_Ninemui","name":"👒ninemui","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"./jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"ub18_de3676b2","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"pc0205_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 {"key":"drpy_9mui-GimyAi.js","name":"🍭Gimy.Ai🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyAi.js"},
