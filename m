@@ -24,9 +24,6 @@
 # T4 Tokens: 51c2b961, de3676b2
 
  "sites":[
-{"key":"csp_9muiBOX","name":"👒9muiBOX","type":3,"api":"csp_Ninemui","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"https://github.com/ninemui/HeiHeiBOX/raw/main/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"ub18_51c2b961","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"duboku_51c2b961","name":"🐄┃獨播庫┃🥇","type":4,"api":"https://tang.hz.cz/power/duboku?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"hme_51c2b961","name":"🐄┃黑木耳┃😈","type":4,"api":"https://tang.hz.cz/power/hme?token=51c2b961","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
