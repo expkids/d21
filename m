@@ -10,13 +10,7 @@
 
 # 直播
 "lives":[
-{"name":"173線路","url":"https://github.com/ninemui/newrechaBOX/raw/main/live/173.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"AKTV2","type":0,"url":"http://aktv.space/live.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-//{"name":"♪港澳台","url":"https://github.com/kimwang1978/collect-tv-txt/raw/main/专区/♪港澳台.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-//{"name":"collect-tv-txt","url":"https://live.iptv365.org/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-//{"name":"Stream-Link","type":0,"url":"https://www.stream-link.org/stream-link.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
-{"name":"直播地址","url":"./lib/直播地址.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
+{"name":"YT","url":"https://github.com/expkids/live/raw/main/yt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
 ],
 
 
