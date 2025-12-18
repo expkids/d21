@@ -10,7 +10,7 @@
 
 # 直播
 "lives":[
-{"name":"YT","url":"https://github.com/expkids/live/raw/main/yt.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
+{"name":"YT","url":"https://github.com/expkids/live/raw/main/yt.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true}
 ],
 
 
