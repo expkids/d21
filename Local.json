@@ -1,10 +1,11 @@
 {"urls":[
 {"url":"file://Pictures/ninemui.json","name":"ninemui"},
 {"url":"file://Pictures/9muiBOX.json","name":"9muiBOX"},
+{"url":"file://Pictures/9muiBOX_cn.json","name":"9muiBOX 🇨🇳"},
 {"url":"https://github.com/ninemui/9muiBOX/raw/main/ninemui.json","name":"ninemui@GitHub"},
-{"url":"https://github.com/ninemui/9muiBOX/raw/main/9muiBOX.json","name":"9muiBOX@GitHub"}
+{"url":"https://github.com/ninemui/9muiBOX/raw/main/9muiBOX.json","name":"9muiBOX@GitHub"},
+{"url":"https://cdn.jsdelivr.net/gh/ninemui/9muiBOX@main/9muiBOX_cn.json","name":"9muiBOX 🇨🇳 @GitHub"}
 ]}
-
 
 
 
