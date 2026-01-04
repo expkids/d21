@@ -20,7 +20,7 @@
 # T4 Tokens: de3676b2, fhJadO1R
 
  "sites":[
-{"key":"csp_9muiBOXCN","name":"🐼9muiBOX CN","type":3,"api":"csp_9muiBOX","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_9muiBOXCN","name":"🇨🇳 9muiBOX @GC","type":3,"api":"csp_9muiBOX","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_本地視訊","name":"📂本地視訊","type":3,"api":"csp_LocalFile","jar":"https://raw.gitcode.com/ninemui/9muiBOX/raw/main/jar/panda1123.jar","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"ub18_de3676b2","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"xyqxbpq_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"https://raw.gitcode.com/ninemui/9muiBOX/raw/main/jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/ninemui/9muiBOX/raw/main/lib/9mui-歐樂影院.json"},
