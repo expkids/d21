@@ -12,7 +12,7 @@
 # 直播
 "lives":[ 
 {"name":"JACKTV","url":"http://php.946985.filegear-sg.me/jackTV.m3u","ua":"okhttp","timeout":30,"playerType":1},
-{"name":"直播地址","url":"https://cdn.jsdelivr.net/gh/cm851228/my51228888@main/mytv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
+{"name":"直播地址","url":"https://cdn.jsdelivr.net/gh/ninemui/cmBOX@main/mytv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
 {"name":"線更劇場","url":"https://cdn.jsdelivr.net/gh/ninemui/9muiBOX@main/lib/Drama1230.txt","ua":"okhttp","timeout":30,"playerType":1}
 ],
 
