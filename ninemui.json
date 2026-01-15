@@ -26,7 +26,7 @@
 {"key":"xyqxbpq_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 {"key":"duboku_de3676b2","name":"🦁┃獨播庫┃🥇","type":4,"api":"https://tang.hz.cz/power/duboku?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"hme_de3676b2","name":"🐐┃黑木耳┃😈","type":4,"api":"https://tang.hz.cz/power/hme?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"drpy_9mui-GimyAi.js","name":"🍭Gimy.Ai🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyAi.js"},
+{"key":"drpy_9mui-GimyNow.js","name":"🍭Gimy.Now🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyNow.js"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-iKanBot.js"},
 {"key":"AOWU_愛壹帆","name":"😚愛壹帆","type":3,"api":"csp_AiyfAmns","jar":"https://github.com/ninemui/aowuBOX/raw/main/aowu/bfdb--cvdvds.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"yongle_fhJadO1R","name":"😚永樂視訊","type":4,"api":"https://newtv.ggff.net/yongle?token=fhJadO1R","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
