@@ -26,7 +26,7 @@
 {"key":"xyqxbpq_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 {"key":"duboku_de3676b2","name":"🦁┃獨播庫┃🥇","type":4,"api":"https://tang.hz.cz/power/duboku?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"hme_de3676b2","name":"🐐┃黑木耳┃😈","type":4,"api":"https://tang.hz.cz/power/hme?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"drpy_9mui-GimyNow.js","name":"🍭Gimy.Now🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyNow.js"},
+{"key":"drpy_9mui-GimyAi.js","name":"🍭GimyTV.Ai🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyAi.js"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-iKanBot.js"},
 {"key":"AOWU_愛壹帆","name":"😚愛壹帆","type":3,"api":"csp_AiyfAmns","jar":"https://github.com/ninemui/aowuBOX/raw/main/aowu/bfdb--cvdvds.png","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"yongle_fhJadO1R","name":"😚永樂視訊","type":4,"api":"https://newtv.ggff.net/yongle?token=fhJadO1R","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -41,15 +41,15 @@
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-小寶影院.js"},
 {"key":"xyqxbpq_9mui-麥田影視","name":"😚麥田影視🇭🇰","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-麥田影視.json"},
 {"key":"ikanbot_fhJadO1R","name":"🐈┃iKanBot v2┃🥇","type":4,"api":"https://newtv.ggff.net/ikanbot?token=fhJadO1R","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"drpy_9mui-GimyNow.js","name":"🍭Gimy.Now🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyNow.js"},
 
 //短剧
 {"key":"xyqxbpq_红果短剧","name":"🍉红果短剧院🍙","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/短剧粉红果.json"},
-{"key":"drpy_甜圈短剧","name":"🍉甜圈短剧🍙","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/甜圈短剧.js"},
 {"key":"jiqimao_軟鴨短劇","name":"🍉軟鴨短劇🍙","type":3,"api":"./lib/軟鴨短劇.py","jar":"./jar/jiqimao.png;md5;adabfce4b28d756777420f84794da8c1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xyqxbpq_短劇網","name":"🍉短劇網🍙","type":3,"api":"csp_XBPQ","api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"剧情介绍:+data-label\">&&</p>","副标题":"meta-post-type2\">&&</span>","分类url":"https://www.duanju2.com/show/duanju---{cateId}-----{catePg}---{year}.html","分类":"女频$女频恋爱#悬疑$脑洞悬疑#年代$年代穿越#古装$古装仙侠#都市$现代都市#反转$反转#爽文$爽文#其他$短剧"}},   
 {"key":"csp_xml_旺旺短劇","name":"🍉旺旺短劇🍙","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["短剧"]},
 {"key":"olelive_de3676b2","name":"🍉歐樂🍙","type":4,"api":"https://tang.hz.cz/power/olelive?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
+//TOO SLOW{"key":"drpy_甜圈短剧","name":"🍉甜圈短剧🍙","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/甜圈短剧.js"},
 
 
 //資源網
