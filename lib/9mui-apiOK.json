@@ -1,21 +1,5 @@
-//OK资源 官网地址：okzyw.me、okzyw.info、 okzy.info 、okzyw.vip
-//https://okzyw9.com/vodshow/13-----------/
-//https://okzyw9.com/index.php/vod/detail/id/73525.html
-//https://api.okzy.org/api.php/provide/vod/?ac=list
-//https://okzyw9.com/api.php/provide/vod/?ac=list
-//https://okzyw9.com/api.php/provide/vod/?ac=detail&t=13&pg=1
-//https://okzyw9.com/index.php/vod/search.html?wd=庆余年第二季
-
-
-//https://api.okzy.org/api.php/provide/vod/?ac=list
-//https://api.okzy.org/api.php/provide/vod/?ac=detail&t=13&pg=1
-//https://api.okzy.org/api.php/provide/vod/?ac=detail&ids=89671
-//https://api.okzy.org/api.php/provide/vod/?ac=detail&wd=庆余年第二季
-//https://api.okzy.org/api.php/provide/vod/?ac=detail&wd=张若昀
-//http://xsd.sdzyapi.com/index.php/ajax/suggest.html?mid=1&wd=庆余年第二季
-
 {
-    "主页url":"https://api.okzy.org",
+    "主页url":"https://api.okzyw.net",
     "站名":"🌸OK资源",
     "首页":"电视剧",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
@@ -26,19 +10,19 @@
     "图片":"vod_pic\"*\"&&\"",
     "标题":"vod_name\"*\"&&\"",
     //"标题":"vod_name\"*\"&&\"+🌸+vod_id\":&&,",
-    "链接":"https://api.okzy.org/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
-	     //https://api.okzy.org/api.php/provide/vod/at/json/?ac=detail&ids=51855
+    "链接":"https://api.okzyw.net/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+	     //https://api.okzyw.net/api.php/provide/vod/at/json/?ac=detail&ids=51855
     //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"+🌸+\"vod_actor\":\"&&\"", 
     "副标题":"vod_remarks\":\"&&\"[替换:更新第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor vod_duration
     
     "搜索模式":"1",
-    "搜索url":"http://api.okzy.org/index.php/ajax/suggest.html?mid=1&wd={wd}",
+    "搜索url":"https://api.okzyw.net/api.php/provide/vod/at/json/?ac=detail&wd={wd}",
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"\"pic\"*\"&&\"",
     "搜索标题":"\"name\"*\"&&\"",
-    "搜索链接":"https://api.okzy.org/api.php/provide/vod/at/json/?ac=detail&ids=+\"id\":&&,+.html",	
+    "搜索链接":"https://api.okzyw.net/api.php/provide/vod/at/json/?ac=detail&ids=+\"id\":&&,+.html",	
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
@@ -62,8 +46,8 @@
 	"播放链接":"&&",
  
 	"分类":"国产剧$13#韩国剧$15#欧美剧$16#电视剧$13#电影$6#短剧$64#综艺$25#动漫$29#",
-	        //https://api.okzy.org/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
-    "分类url":"https://api.okzy.org/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
+	        //https://api.okzyw.net/api.php/provide/vod/?ac=detail&t=13&pg=1&limit=20
+    "分类url":"https://api.okzyw.net/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg}&limit=20",
 
 
 		
@@ -102,7 +86,7 @@
         {"n":"纪录片","v":"20"}
         ]
         }
-        ],
+        ],		
     "25":[
         {"key":"cateId","name":"类型","value":[
         {"n":"综艺","v":"25"},
