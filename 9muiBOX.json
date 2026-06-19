@@ -37,7 +37,6 @@
 {"key":"Amns_JPian","name":"🎯薦片","type":3,"api":"csp_JPianAmns","jar":"./jar/bfdb--cvdvds.png","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jpian.json"},
 {"key":"fm_cs_優視頻","name":"😚優視頻","type":3,"changeable":1,"api":"csp_Uvod","jar":"./jar/fm_cs.jar","searchable":1,"playerType":2,"filterable":1},
 {"key":"vod_艾旦","name":"😚艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电视剧","国产剧","日韩剧","欧美剧","港台剧","海外剧","短剧","电影","科幻片","动作片","喜剧片","爱情片","恐怖片","犯罪片","战争片","剧情片","动画电影","综艺","日韩综艺","港台综艺","欧美综艺","大陆综艺","动漫","国产动漫","日韩动漫","欧美动漫","海外动漫"]},
-{"key":"pianba","name":"😚片吧","type":3,"api":"csp_XBPQ","jar":"https://tvbox.catvod.com/catvod.jar","searchable":1,"quickSearch":1,"ext":"https://tvbox.catvod.com/js/pianba.json"},
 
 
 //短剧
