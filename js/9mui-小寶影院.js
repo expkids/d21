@@ -1,5 +1,8 @@
 muban.首图.二级.title = 'h1&&Text;.data--span:eq(0)&&Text';
 muban.首图.二级.desc = '#score&&Text;;;.data--span:eq(2)&&Text;.data--span:eq(3)&&Text';
+muban.首图.二级.tabs = '.nav-tabs li a';
+muban.首图.二级.lists = '.tab-pane:eq(#id) li';
+
 var rule={
 	title:'小宝影院[飞]',
 	模板:'首图',
@@ -22,9 +25,10 @@ var rule={
 		64:{cateId:'20',by:'/by/time'}
 	},
 	searchUrl:'/index.php/vod/search.html?wd=**',
-    tab_rename:{'小寶影院':'電影天堂'},
+    tab_rename:{'小宝影院':'如意資源','小宝影院1':'電影天堂'},
 	class_parse:'.myui-header__menu&&li.hidden-xs:gt(0):lt(7);a&&Text;a&&href;./(\\d+).html',
-    lazy:`js:
+    play_parse: true,
+    lazy: `js:
         var html = JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);
         var url = html.url;
         if (html.encrypt == '1') {
@@ -32,8 +36,12 @@ var rule={
         } else if (html.encrypt == '2') {
             url = unescape(base64Decode(url))
         }
-        if (/m3u8|mp4/.test(url)) {
-            input = url
+        if (/\\.m3u8|\\.mp4/.test(url)) {
+            input = {
+                jx: 0,
+                url: url,
+                parse: 0
+            }
         } else {
             input
         }
