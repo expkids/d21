@@ -1,5 +1,5 @@
 {
-    "主页url":"https://caiji.dbzy.tv",
+    "主页url":"https://caiji.dbzy5.com",
     "站名":"😈豆瓣資源",
     "首页":"电视剧",
     "请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
@@ -10,21 +10,21 @@
     "图片":"vod_pic\"*\"&&\"",
     "标题":"vod_name\"*\"&&\"",
     //"标题":"vod_name\"*\"&&\"+🌸+vod_id\":&&,",
-    "链接":"https://caiji.dbzy.tv/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
-	     //https://caiji.dbzy.tv/api.php/provide/vod/at/json/?ac=detail&ids=51855
+    "链接":"https://caiji.dbzy5.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+	     //https://caiji.dbzy5.com/api.php/provide/vod/at/json/?ac=detail&ids=51855
     "副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"[替换:分钟>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     //"副标题":"ids=+\"vod_id\":&&,", //vod_area vod_score vod_hits vod_actor vod_duration
     
 	"搜索模式":"1",
-    "搜索url":"https://caiji.dbzy.tv/api.php/provide/vod/?ac=list&wd={wd}", //https://caiji.dbzy.tv/api.php/provide/vod/?ac=detail&wd=庆余年第二季
+    "搜索url":"https://caiji.dbzy5.com/api.php/provide/vod/?ac=list&wd={wd}", //https://caiji.dbzy5.com/api.php/provide/vod/?ac=detail&wd=庆余年第二季
     "搜索数组二次截取":"\"list\"*[&&]",
     "搜索数组":"{&&}",
     "搜索图片":"vod_pic\"*\"&&\"",
     "搜索标题":"vod_name\"*\"&&\"",
     //"搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_actor\":\"&&\"", 
     "搜索副标题":"vod_remarks\":\"&&\"[替换:更新至第>> #更新至>> #更至>> #]+🌸+\"vod_duration\":\"&&\"", 
-    "搜索链接":"https://caiji.dbzy.tv/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
+    "搜索链接":"https://caiji.dbzy5.com/api.php/provide/vod/at/json/?ac=detail&ids=+\"vod_id\":&&,", //API
     
 //API    
 	"影片类型":"vod_class\"*\"&&\"[替换:剧情>>电视剧#]",
@@ -48,8 +48,8 @@
 	"播放链接":"&&",
     
 	"分类":"国产剧$13#韩国剧$16#欧美剧$15#电视剧$13#电影$6#短剧$43#综艺$25#动漫$31#伦理片$34#",
-	        //https://caiji.dbzy.tv/provide/vod/?ac=detail&t=13&pg=1&limit=20
-	"分类url":"https://caiji.dbzy.tv/api.php/provide/vod/at/json?ac=detail&t={cateId}&pg={catePg}&limit=20",
+	        //https://caiji.dbzy5.com/provide/vod/?ac=detail&t=13&pg=1&limit=20
+	"分类url":"https://caiji.dbzy5.com/api.php/provide/vod/at/json?ac=detail&t={cateId}&pg={catePg}&limit=20",
 
 
 		
