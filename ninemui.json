@@ -137,7 +137,7 @@
 
 //duplicate
 //{"key":"csp_duplicate","name":"☛┃ Duplicate┃☚","type":3,"api":"csp_Duplicate","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"vod_蛋蛋魔法=艾旦","name":"😚蛋蛋魔法","type":1,"api":"https://ddmf.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电视剧","国产剧","日韩剧","欧美剧","港台剧","海外剧","短剧","电影","科幻片","动作片","喜剧片","爱情片","恐怖片","犯罪片","战争片","剧情片","动画电影","影视解说","网络电影","综艺","日韩综艺","港台综艺","欧美综艺","大陆综艺","动漫","国产动漫","日韩动漫","欧美动漫","海外动漫"]},
+//{"key":"vod_蛋蛋魔法=艾旦","name":"😚蛋蛋魔法","type":1,"api":"https://ddmf.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电视剧","国产剧","日韩剧","欧美剧","港台剧","海外剧","短剧","电影","科幻片","动作片","喜剧片","爱情片","恐怖片","犯罪片","战争片","剧情片","动画电影","影视解说","网络电影","综艺","日韩综艺","港台综艺","欧美综艺","大陆综艺","动漫","国产动漫","日韩动漫","欧美动漫","海外动漫"]},
 //{"key":"drpy_9mui-美視網","name":"🌈美視網😈","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-美視網.js"},
 //{"key":"pc0205_OLE","name":"🛫┃歐樂影院e┃🆚","type":3,"api":"csp_XBPQe","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.olehdtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 //{"key":"xyqxbpq_XBiu多瑙影視","name":"🛫┃多瑙影視┃🆚","type":3,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://t.duonaovod.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类":"電視劇$2#電影$1#動漫$4#綜藝$3#短劇$60"}},
