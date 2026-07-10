@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://github.com/ninemui/gaoBOX/raw/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+"spider":"./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
 
 ##主頁壁紙
 //"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
