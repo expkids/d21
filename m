@@ -36,6 +36,27 @@
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"csp_xml_旺旺短劇","name":"😚旺旺短劇","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["短剧"]},
 
+{"key":"csp_Kan90","name":"😇最全┃短剧","type":3,"api":"csp_Kan90","timeout":60,"searchable":1,"quickSearch":1,"changeable":0},
+{"key":"VOX聚合短剧","name":"🎿聚合┃短剧","type":3,"api":"csp_JuheShortDrama","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"麒麟影院","name":"🐩麒麟┃APP","type":3,"changeable":0,"api":"csp_Appfox","ext":{"host":"https://qh.70qh.top","ver":2}},
+{"key":"粉象世界","name":"🐘粉象┃APP","type":3,"changeable":0,"api":"csp_Appfox","ext":{"host":"http://host1.sopython.top/host.json","ver":2}},
+{"key":"金牌影院","name":"🥇金牌┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://dtqj1.gg1080.com:443/dtjp.txt","datakey":"kecbio48dsq131ed","api":"2"}},
+{"key":"奇奇视频","name":"🚵奇奇｜APP","type":3,"api":"csp_AppGet","ext":{"api":"2","host":"https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt","datakey":"123456789abcdefg"}},
+{"key":"剧梦屋","name":"🙃剧梦｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://www.jumengwu.com","datakey":"1f0a873caf2550a5"}},
+{"key":"天峰影视","name":"⛰️天峰┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"http://zxy-ys.810211.dpdns.org","datakey":"1234567890123456"}},
+{"key":"火狐影视","name":"🦊火狐｜APP","type":3,"api":"csp_AppGet","ext":{"host":"http://122.114.171.79:568/huohushipin.txt","datakey":"huohushipingetap"}},
+{"key":"mifun","name":"🐸mifun｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt","datakey":"GETMIFUNGEIMIFUN"}},
+{"key":"布雷4K","name":"🥶布雷｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt","datakey":"5f2b7ed203a3a581","api":2}},
+{"key":"仓鼠4K","name":"🤑仓鼠｜APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://hk440cms.cs4k.top","datakey":"fL7sY4zN4kB3pG4p","api":2}},
+{"key":"魔方4K","name":"🎲魔方┃APP","type":3,"api":"csp_AppGet","ext":{"host":"https://snysw.xyz/mf4kzs327.txt","datakey":"1234567887654321"}},
+{"key":"云云","name":"☁️云云┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt","datakey":"staraugust123456","api":2}},
+{"key":"影视","name":"😡影视┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","datakey":"AAdgrdghjfgswerA","api":2}},
+{"key":"次元方舟","name":"🛸方舟┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://www.cyfz.vip","datakey":"e72cdfd629e8895d"}},
+{"key":"番薯动漫","name":"🌳番薯┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://new.app.bytegooty.com","datakey":"N4yj7l7xKxHF4*gz"}},
+{"key":"花小猪","name":"🐷小猪┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt","ua":"okhttp/3.10.0","datakey":"seb5tq9mykp2w9ry","api":2}},
+{"key":"八天","name":"🏂八天┃APP","type":3,"searchable":1,"changeable":1,"api":"csp_AppGet","ext":{"host":"https://dy.8ttv.cn/","datakey":"1111111111111111"}},
+{"key":"剧下饭","name":"🍚剧集┃下饭","type":3,"changeable":0,"api":"csp_AppYsV2","ext":{"api":"http://dmmax.juxiafan.com/icciu_api.php/v1.vod","apisignkey":"lvdoutv-1.0.0"}},
+{"key":"永恒视频","name":"🐁永恒┃APP","type":3,"api":"csp_Hmys","ext":{"host":"https://dy.oogsy.com","app_id":"yongheng","deviceid":"92ec8baead8e788b","versionCode":"10000","UMENG_CHANNEL":"zhuan"}},
 
 
 //資源網
