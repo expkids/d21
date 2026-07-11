@@ -47,7 +47,7 @@
     "播放标题":"&&",
 	"播放链接":"&&",
     
-	"分类":"国产剧$13#KOR$15#欧美剧$14#电视剧$13#电影$6#短剧$64#综艺$25#动漫$30#伦理片$55#",
+	"分类":"国产剧$13#韓國劇$15#欧美剧$14#电视剧$13#电影$6#短剧$64#综艺$25#动漫$30#伦理片$55#",
 	        //https://tyyszyapi.com/provide/vod/?ac=detail&t=13&pg=1&limit=20
 	"分类url":"https://tyyszyapi.com/api.php/provide/vod/at/json?ac=detail&t={cateId}&pg={catePg}&limit=20",
 
