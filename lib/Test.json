@@ -1,34 +1,26 @@
 {
   "站名": "麥田影院",
   "主页url": "https://mtyy1.cc",
-  
-																 
   "分类url": "https://mtyy1.cc{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
   "分类": "短劇$6#電影$1#電視劇$2#動漫$3#綜藝$4",
-  
   "阵列": "<div class=\"public-list-div public-list-bj\">&&</div>",
-  "图片": "img&&data-original",
+  "图片": "data-original=\"&&\"[替换:/=>https://mtyy1.cc]",
   "标题": ".public-list-title&&a&&Text",
   "副标题": ".public-list-prat&&Text",
   "链接": ".public-list-title&&a&&href",
-  
   "搜索url": "/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
   "搜索模式": "1",
-  
-  "详情页": "https://mtyy1.cc{id}.html",
+  "详情页": "https://mtyy1.ccvoddetail/{id}.html",
   "状态": ".vod-detail-info&&.vod-detail-status&&Text",
   "导演": ".vod-detail-info&&.vod-detail-content:contains(導演)&&Text",
   "主演": ".vod-detail-info&&.vod-detail-content:contains(主演)&&Text",
   "简介": ".vod-detail-info&&.vod-detail-content:contains(簡介)&&Text",
-  
   "播放源阵列": ".anthology-tab&&.swiper-wrapper&&a||.tabs-box&&a",
   "播放源名称": "a&&Text",
-  
   "播放列表阵列": ".anthology-list-box&&.anthology-list",
   "播放剧集阵列": "ul&&li&&a",
   "剧集名称": "a&&Text",
   "剧集链接": "a&&href",
-  
   "嗅探词": ".m3u8#.mp4#index.m3u8",
-  "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15"
+  "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
