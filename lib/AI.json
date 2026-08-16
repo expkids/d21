@@ -3,7 +3,7 @@
     "站名": "麦田影院",
     "主页url": "https://mtyy8.cc",
     "热门": "",
-    "分类": [
+    "classes": [
             {"type_name": "电影", "type_id": "1"},
             {"type_name":"电视剧","type_id": "2"},
 		    {"type_name": "动漫", "type_id": "3"},
