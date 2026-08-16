@@ -1,7 +1,7 @@
 {
     "作者": "AI",  
     "站名": "麦田影院",
-    "主页url": "https://mtyy8.cc/",
+    "主页url": "https://mtyy1.cc/",
     "热门": "",
     "classes": [
 		    {"type_name": "短剧", "type_id": "26"}, 
@@ -10,8 +10,8 @@
 		    {"type_name": "动漫", "type_id": "3"},
             {"type_name": "综艺", "type_id": "4"}            
             ],
-	"分类url": "https://mtyy8.cc/vodtype/{cateId}---{catePg}---.html",
-	//"分类url": "https://mtyy8.cc/vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",                
+	"分类url": "https://mtyy1.cc/vodtype/{cateId}---{catePg}---.html",
+	//"分类url": "https://mtyy1.cc/vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",                
 	"数组": "<div class=\"public-list-div public-list-bj\">&&</div>",
 	"副标题": "public-list-prb hide ft2\">&&</span>",
     "图片": "data-src=\"&&\"",
@@ -24,7 +24,7 @@
     "搜索图片": "pic\"*\"&&\"",
     "搜索标题": "name\"*\"&&\"",
     "搜索副标题": "vod_remarks\"*\"&&\"",
-    "搜索链接": "https://mtyy8.cc/voddetail/+id\":&&,+.html",
+    "搜索链接": "https://mtyy1.cc/voddetail/+id\":&&,+.html",
 	"简介": "描述:&&</div>",
 	"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 	"线路数组": "<a class=\"swiper-slide\">&&/a>[替换:<span class=\"badge\">>>第]",
