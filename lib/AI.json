@@ -12,6 +12,7 @@
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
 	"搜索模式": "1",
+	"详情页": "https://mtyy1.cc/vodtype/{id}.html",
 	"搜索url": "/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
     "搜索二次截取": "list\":[&&]",
     "搜索数组": "{&&}",
