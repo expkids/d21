@@ -3,6 +3,7 @@
     "站名": "麦田影院",
     "主页url": "https://mtyy1.cc/",
     "热门": "",
+	"起始页": "1",
 	"分类url": "https://mtyy1.cc/vodtype/{cateId}---{catePg}---.html",
 	"分类": "电视剧$2#电影$1#综艺$3#短剧$26#动漫$4",
  	//"分类url": "https://mtyy1.cc/vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",                
