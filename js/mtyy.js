@@ -3,9 +3,9 @@ var rule = {
     host: 'https://www.mtyy1.cc',
     url: '/vodtype/fyclass--hits_week------fypage---.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
-    searchable: 2,
-    quickSearch: 0,
-    filterable: 0,
+    searchable: 1,
+    quickSearch: 1,
+    filterable: 1,
     headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
         'Referer': 'https://www.mtyy1.cc/'
