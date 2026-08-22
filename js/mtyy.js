@@ -1,7 +1,7 @@
 var rule = {
     title: '麦田',
     host: 'https://www.mtyy1.cc',
-    url: '/vodshow/fyclass--hits_week------fypage---.html',
+    url: '/vodtype/fyclass--hits_week------fypage---.html',
     searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,
     quickSearch: 0,
