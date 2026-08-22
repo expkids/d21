@@ -5,7 +5,7 @@
 	"热门": "",
     "分类": "电视剧$2#电影$1#综艺$3#短剧$26#动漫$4",
 	"分类url": "https://mtyy1.cc/vodtype/{cateId}.html",
- 	"分类url_paged": "https://mtyy1.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",              
+ 	"分类url_paged": "https://mtyy1.cc/vodtype/{cateId}---{catePg}.html",           
 	"数组": "<div class=\"public-list-div public-list-bj\">&&</div>",
 	"副标题": "public-list-prb hide ft2\">&&</span>",
 	"图片": "data-src=\"&&\"",
