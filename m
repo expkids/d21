@@ -22,7 +22,7 @@
 {"key":"Yoursmile_9mui-麥田影視","name":"😚麥田影視🇭🇰","type":3,"api":"csp_XBPQ","jar":"./jar/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/AI.json"},
 {"key":"ub18_de3676b2","name":"🐄┃安博┃🥇","type":4,"api":"https://tang.hz.cz/power/ub18?token=de3676b2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"pc0205_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
-{"key": "麦田","name": "🤍麦田","type": 3,"api":".libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./js/麦田影院AI"},
+{"key": "麦田","name": "🤍麦田","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./js/麦田影院AI"},
 {"key": "麦田影院.py","name": "💥麦田影院💥","type":3, "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/麦田影院.py","filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"drpy_9mui-GimyAi.js","name":"🍭Gimy.Ai🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyAi.js"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-iKanBot.js"},
