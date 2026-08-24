@@ -37,6 +37,8 @@
 {"key":"drpy_9mui-小寶影院","name":"😚小寶","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-小寶影院.js"},
 {"key":"drpy_9mui-唐人街影視","name":"😚唐人街影視","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-唐人街影視.js"},
 {"key":"csp_xml_旺旺短劇","name":"😚旺旺短劇","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["短剧"]},
+{"key": "xhvm","name": "🦋 骚火影视.py","type": 3,"api": "https://lytvs.top/py/saohuoyingshi.py","ext": "","category": "综合"},
+{"key": "dsys","name": "🦋 毒舌影视.py","type": 3,"api": "https://lytvs.top/py/dusheyingshi.py","ext": "","category": "综合"},
 
 
 //資源網
