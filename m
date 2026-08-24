@@ -39,6 +39,9 @@
 {"key":"csp_xml_旺旺短劇","name":"😚旺旺短劇","type":1,"api":"https://api.wwzy.tv/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","playerType":2,"categories":["短剧"]},
 {"key": "xhvm","name": "🦋 骚火影视.py","type": 3,"api": "https://lytvs.top/py/saohuoyingshi.py","ext": "","category": "综合"},
 {"key": "dsys","name": "🦋 毒舌影视.py","type": 3,"api": "https://lytvs.top/py/dusheyingshi.py","ext": "","category": "综合"},
+{"key": "ms影视.py","name":"💥ms影视💥","api":"https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/ms.py","filterable": 1,"quickSearch":1,"searchable": 1,"type": 3},
+{"key": "gq.js","name":"💥hqvod💥","api":"https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js8/gq.js","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
+{"key": "新影视.py","name":"💥新影视💥","api":"https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/新影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 
 
 //資源網
