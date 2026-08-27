@@ -28,6 +28,8 @@
 {"key": "好剧影视.py","name": "💥好剧影视💥","api": "./py/好剧屋.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 {"key": "豆花影视.py","name": "💥豆花影视💥","api": "./py/豆花影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 {"key": "ms影视.py","name": "💥ms影视💥","api": "./py/ms.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
+{"key": "视觉影视.py","name": "💥视觉影视💥","api": "./py/视觉影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
+{"key": "4K影视.py","name": "💥4K影视💥","api": "./py/4K影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 {"key":"drpy_9mui-GimyAi.js","name":"🍭Gimy.Ai🌈️","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/9mui-GimyAi.js"},
 {"key":"drpy_9mui-iKanBot","name":"😎iKanBot🤖","type":3,"api":"https://github.com/ninemui/PizazzGYBOX/raw/main/JS/drpy2.min.js","ext":"./js/9mui-iKanBot.js"},
 {"key":"XBPQ_看片狂人","name":"😚看片狂人","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-{by}------{catePg}---{year}--.html","分类":"连续剧$2#国产剧$13#韩剧$23#欧美剧$16#短剧$37#电影$1#综艺$3#动漫$4"}},
