@@ -26,7 +26,7 @@
 {"key":"pc0205_9mui-歐樂","name":"🍄歐樂影院💢","type":3,"api":"csp_XBPQ","jar":"./jar/pc0205.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/9mui-歐樂影院.json"},
 //{"key": "麦田影院.py","name": "💥麦田影院💥","type":3, "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py/麦田影院.py","filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "麦田.py","name": "💥麦田影院💥","type": 3,"api":"./py/麦田影院.py","filterable": 1,"quickSearch": 1,"searchable": 1},
-{"key": "麦田m.py","name": "💥麦田影院m💥","type": 3,"api":"./py/麦田影院m.py","filterable": 1,"quickSearch": 1,"searchable": 1},
+//{"key": "麦田m.py","name": "💥麦田影院m💥","type": 3,"api":"./py/麦田影院m.py","filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key": "楓林網.py","name": "💥楓林網💥","api": "./py/楓林網.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 {"key": "好剧影视.py","name": "💥好剧影视💥","api": "./py/好剧屋.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
 {"key": "豆花影视.py","name": "💥豆花影视💥","api": "./py/豆花影视.py","filterable": 1,"quickSearch": 1,"searchable": 1,"type": 3},
